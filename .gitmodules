@@ -261,7 +261,7 @@
 	url = git://github.com/LuaDist/lrandom.git
 [submodule "lpeg"]
 	path = lpeg
-	url = git://github.com/LuaDist/lpeg.git
+	url = git://github.com/Flymir/lpeg.git
 [submodule "lpc"]
 	path = lpc
 	url = git://github.com/LuaDist/lpc.git
