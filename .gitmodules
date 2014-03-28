@@ -10,3 +10,6 @@
 [submodule "ceg"]
 	path = ceg
 	url = git://github.com/Flymir/ceg.git
+[submodule "luadist-git"]
+	path = luadist-git
+	url = git://github.com/Flymir/luadist-git.git
