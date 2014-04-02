@@ -13,3 +13,6 @@
 [submodule "luadist-git"]
 	path = luadist-git
 	url = git://github.com/Flymir/luadist-git.git
+[submodule "lcpp"]
+	path = lcpp
+	url = git://github.com/Flymir/lcpp
