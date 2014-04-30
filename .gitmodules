@@ -16,3 +16,6 @@
 [submodule "lcpp"]
 	path = lcpp
 	url = git://github.com/Flymir/lcpp
+[submodule "ffiex"]
+	path = ffiex
+	url = git://github.com/Flymir/ffiex.git
