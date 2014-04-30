@@ -19,3 +19,6 @@
 [submodule "ffiex"]
 	path = ffiex
 	url = git://github.com/Flymir/ffiex.git
+[submodule "luajit"]
+	path = luajit
+	url = git://github.com/Flymir/luajit.git
