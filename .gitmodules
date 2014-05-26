@@ -25,3 +25,6 @@
 [submodule "luafun"]
 	path = luafun
 	url = git://github.com/Flymir/luafun.git
+[submodule "luatrace"]
+	path = luatrace
+	url = git://github.com/Flymir/luatrace.git
