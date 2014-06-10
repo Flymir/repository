@@ -28,3 +28,6 @@
 [submodule "luatrace"]
 	path = luatrace
 	url = git://github.com/Flymir/luatrace.git
+[submodule "coin-all"]
+	path = coin-all
+	url = git://github.com/flymir/coin-all.git
