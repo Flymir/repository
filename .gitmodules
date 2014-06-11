@@ -31,3 +31,6 @@
 [submodule "coin-all"]
 	path = coin-all
 	url = git://github.com/flymir/coin-all.git
+[submodule "rima"]
+	path = rima
+	url = git://github.com/flymir/rima.git
