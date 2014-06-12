@@ -34,3 +34,6 @@
 [submodule "rima"]
 	path = rima
 	url = git://github.com/flymir/rima.git
+[submodule "lpsolve"]
+	path = lpsolve
+	url = git://github.com/flymir/lpsolve.git
